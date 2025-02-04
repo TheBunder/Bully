@@ -1,4 +1,4 @@
-# Buli
+# Bully
 
 This repository contains the code for "Bully In The Maze Of Life", a maze game developed in C. The game challenges the player to collect all the points in a 20x20 maze while avoiding a bear monster that's trying to eat him!
 
